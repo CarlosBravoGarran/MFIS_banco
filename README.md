@@ -1,14 +1,6 @@
 # Sistema de Ayuda a la Decisión para Préstamos Personales
 Este proyecto implica la creación de un Sistema de Ayuda a la Decisión para evaluar solicitudes de préstamos personales. Se utiliza un Sistema de Inferencia Borroso de Mamdani (MFIS) implementado en Python. El código fuente proporcionado incluye clases para representar conjuntos borrosos, reglas de inferencia y la aplicación del sistema.
 
-1. [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-2. [Descripción del Código](#descripción-del-código)
-   - [Fase 1: Definición de Variables](#fase-1-definición-de-variables)
-   - [Fase 2: Definición de Reglas de Inferencia](#fase-2-definición-de-reglas-de-inferencia)
-   - [Funcionamiento del Sistema de Inferencia](#funcionamiento-del-sistema-de-inferencia)
-3. [Desarrollado por](#desarrollado-por)
-
-
 ## Cómo ejecutar el proyecto
 #### Clonar el repositorio
 ```bash
